@@ -17,7 +17,8 @@ React + ASP.NET + MariaDB
 
 ---
 
-## [E-commerce app](https://github.com/truearogog/getmalone)
+## E-commerce app
+(https://github.com/truearogog/getmalone)
 
 Fullstack app developed in a team
 React + ASP.NET + MariaDB
